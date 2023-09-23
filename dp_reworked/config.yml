@@ -1,0 +1,12 @@
+read_database:
+  host: 127.0.0.1
+  port: 5432
+  username: postgres
+  password: d87nv2at
+  db_name: meetings
+write_database:
+  host: 127.0.0.1
+  port: 5432
+  username: postgres
+  password: d87nv2at
+  db_name: meetings
